@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PushNotifications",
-    "slug": "PushNotifications",
+    "name": "CloudMessaging",
+    "slug": "CloudMessaging",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nachogutman.CloudMessaging"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78c1f0bc-644a-4e7d-9b9f-017ab348de7d"
+      }
     }
   }
 }
