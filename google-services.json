@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55144121135",
+    "project_id": "julimedinanotis2",
+    "storage_bucket": "julimedinanotis2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55144121135:android:8ffb27cf42ce200b70d7da",
+        "android_client_info": {
+          "package_name": "com.nachogutman.notis2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUw1y0fb-w5mb4WjaMVsfy2vsMofqf1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
