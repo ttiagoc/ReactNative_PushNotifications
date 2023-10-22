@@ -18,17 +18,19 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile":"./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nachogutman.notify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra":{
-      "eas":{
-        "projectId": "78c1f0bc-644a-4e7d-9b9f-017ab348de7d"
+    "extra": {
+      "eas": {
+        "projectId": "4c1cf297-762d-44e5-b167-21c446e02618"
       }
     }
   }
